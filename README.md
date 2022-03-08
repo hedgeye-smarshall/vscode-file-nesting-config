@@ -1,6 +1,8 @@
 <sub><em>Sam's</em></sub>
 <h1>File Nesting Config<sup><em> for Rails on VS Code</em></sup></h1>
-based on:
+
+<h3>based on:</h3>
+
 <sub><em>Anthony's</em></sub>
 <h1>File Nesting Config<sup><em> for VS Code</em></sup></h1>
 
